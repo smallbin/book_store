@@ -1,4 +1,4 @@
-package org.firststep.tutorial;
+package org.bookstore.tutorial;
 import java.util.ArrayList;
 
 public class BookStore {

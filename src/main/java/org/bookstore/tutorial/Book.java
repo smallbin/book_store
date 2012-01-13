@@ -1,4 +1,4 @@
-package org.firststep.tutorial;
+package org.bookstore.tutorial;
 import java.util.Random;
 
 public class Book {
