@@ -29,9 +29,7 @@ public class BookTest extends TestCase {
 	}	
 	
 	public void testSetBookPrice() {
-    Book b = new Book();
-    b.setBookPrice(9.99);
-    assertEquals(9.99, b.getBookPrice());
+    fail("Not yet implemented");
 	}
 
 }
